@@ -1,0 +1,16 @@
+body{
+    background-color: brown;
+
+}
+h1{
+    color: white;
+}
+
+@media (min-width:640px) {
+    body{
+        background-color: aquamarine;
+    }
+    h1{
+        color:red;
+    }
+}
